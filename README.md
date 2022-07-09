@@ -1,9 +1,10 @@
 
-
-
-### Olá! Eu sou o José Wagno ✋
+### Olá! Eu sou o José Wagno ✋ 
+Apaixonado por tecnologia, educaçao e por mudar a vida das pessoas através da programaçao.
+<br><br>
 
 ![José Wagno GitHub stats](https://github-readme-stats.vercel.app/api?username=Wagno37&show_icons=true&theme=dark)
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -12,4 +13,8 @@
 <img align="center"  alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"      />
 <img align="center"  alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"      />
 
- </div>
+ 
+
+
+
+
